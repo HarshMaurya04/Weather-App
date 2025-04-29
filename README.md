@@ -51,9 +51,9 @@ The app will run locally on http://localhost:3000.
 
 # 🔍 How to Use
 
-1. Enter the city name in the input box.
-2. Click on the Search button.
-3. Weather information for the entered city will be displayed:
+1] Enter the city name in the input box.
+2] Click on the Search button.
+3] Weather information for the entered city will be displayed:
    - Temperature (°C)
    - Weather condition (text and icon)
    - Location details
