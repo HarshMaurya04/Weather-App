@@ -49,7 +49,7 @@ npm start
 The app will run locally on http://localhost:3000.
 
 
-# 🔍 How to Use
+## 🔍 How to Use
 
 1] Enter the city name in the input box.
 
@@ -61,5 +61,5 @@ The app will run locally on http://localhost:3000.
    - Location details
  
 
-# Screenshots
+## # Screenshots
 ![Image](https://github.com/user-attachments/assets/bc77c8b6-f097-453f-81b1-e2771e7bb6f1)
